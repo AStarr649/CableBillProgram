@@ -1,0 +1,12 @@
+C:\Users\starr\Desktop\VBasic\CableBillProgram\bin\Debug\CableBillProgram.exe.config
+C:\Users\starr\Desktop\VBasic\CableBillProgram\bin\Debug\CableBillProgram.exe
+C:\Users\starr\Desktop\VBasic\CableBillProgram\bin\Debug\CableBillProgram.pdb
+C:\Users\starr\Desktop\VBasic\CableBillProgram\bin\Debug\CableBillProgram.xml
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.vbprojAssemblyReference.cache
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.mainForm.resources
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.Resources.resources
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.vbproj.GenerateResource.cache
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.vbproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.exe
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.xml
+C:\Users\starr\Desktop\VBasic\CableBillProgram\obj\Debug\CableBillProgram.pdb
